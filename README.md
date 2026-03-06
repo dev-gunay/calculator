@@ -1,4 +1,4 @@
-![Uploading image.png…]()
+<img width="387" height="561" alt="image" src="https://github.com/user-attachments/assets/2ea972fa-6070-4267-a1b6-91015d38603c" />
 
 This is a basic web-based calculator built with HTML, CSS, and JavaScript.
 It supports basic arithmetic operations: addition, subtraction, multiplication, and division.
